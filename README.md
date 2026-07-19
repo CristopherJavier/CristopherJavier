@@ -3,7 +3,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:181511,45:563E2E,75:B4804E,100:E3E3DF&text=Cristopher%20Javier&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20my%20future%20one%20project%20at%20a%20time&descAlignY=58&descSize=16&animation=fadeIn" alt="Cristopher Javier banner"/>
 <a href="https://git.io/typing-svg">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B4804E&center=true&vCenter=true&width=700&lines=Software+Developer+in+progress;Building+modern+web+experiences;React+%E2%80%A2+JavaScript+%E2%80%A2+Firebase;BAM+Certified;Always+learning%2C+always+improving" alt="Typing animation"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=B4804E&center=true&vCenter=true&width=700&lines=Software+Developer+in+progress;Building+modern+web+experiences;React+%E2%80%A2+JavaScript+%E2%80%A2+Firebase;Always+learning%2C+always+improving;BAM+Certified;El+Krii+%3C3" alt="Typing animation"/>
 </a>
 
 <br>
@@ -64,24 +65,6 @@ I learn best by building, experimenting, solving problems, and improving each ve
 </div>
 
 > Some technologies shown here are part of my current learning path. My profile evolves as my experience grows.
-
----
-
-## 🌐 Portfolio
-
-<div align="center">
-
-<a href="https://portafoliocri.web.app">
-  <img src="https://img.shields.io/badge/OPEN_MY_PORTFOLIO-B4804E?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Open portfolio"/>
-</a>
-
-<br><br>
-
-My portfolio contains a selection of my work, skills, and progress as a developer.
-
-**[portafoliocri.web.app](https://portafoliocri.web.app)**
-
-</div>
 
 ---
 
