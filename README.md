@@ -1,9 +1,9 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:181511,45:563E2E,75:B4804E,100:E3E3DF&text=Cristopher%20Javier&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20my%20future%20one%20project%20at%20a%20time&descAlignY=58&descSize=16&animation=fadeIn" alt="Cristopher Javier banner"/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B4804E&center=true&vCenter=true&width=700&lines=Software+Developer+in+progress;Building+modern+web+experiences;React+%E2%80%A2+JavaScript+%E2%80%A2+Firebase;Always+learning%2C+always+improving" alt="Typing animation"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B4804E&center=true&vCenter=true&width=700&lines=Software+Developer+in+progress;Building+modern+web+experiences;React+%E2%80%A2+JavaScript+%E2%80%A2+Firebase;BAM+Certified;Always+learning%2C+always+improving" alt="Typing animation"/>
 </a>
 
 <br>
@@ -89,9 +89,6 @@ My portfolio contains a selection of my work, skills, and progress as a develope
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CristopherJavier&show_icons=true&hide_border=true&bg_color=181511&title_color=B4804E&icon_color=CB976F&text_color=E3E3DF" alt="Cristopher's GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherJavier&layout=compact&hide_border=true&bg_color=181511&title_color=B4804E&text_color=E3E3DF&langs_count=8" alt="Most used languages"/>
-
 <br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=CristopherJavier&hide_border=true&background=181511&ring=B4804E&fire=CB976F&currStreakLabel=B4804E&sideLabels=E3E3DF&dates=CB976F&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
@@ -99,17 +96,6 @@ My portfolio contains a selection of my work, skills, and progress as a develope
 </div>
 
 > GitHub language statistics describe the code stored in my public repositories; they are not a complete measure of my experience.
-
----
-
-## ✅ Goals
-
-- [ ] Continue building and publishing complete applications.
-- [ ] Deepen my React and TypeScript knowledge.
-- [ ] Strengthen backend development and REST API skills.
-- [ ] Improve SQL and database design.
-- [ ] Learn testing and professional development practices.
-- [ ] Earn my first opportunity as a software developer.
 
 ---
 
