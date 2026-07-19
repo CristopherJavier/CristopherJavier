@@ -67,16 +67,6 @@ I learn best by building, experimenting, solving problems, and improving each ve
 
 ---
 
-## 🎯 Current Focus
-
-- Building responsive and accessible web interfaces.
-- Strengthening my knowledge of React and modern JavaScript.
-- Improving my backend and database fundamentals.
-- Writing cleaner, more organized, and maintainable code.
-- Turning personal ideas into complete, published projects.
-
----
-
 ## 🌐 Portfolio
 
 <div align="center">
@@ -109,22 +99,6 @@ My portfolio contains a selection of my work, skills, and progress as a develope
 </div>
 
 > GitHub language statistics describe the code stored in my public repositories; they are not a complete measure of my experience.
-
----
-
-## 🧭 My Developer Journey
-
-```text
-Learn the fundamentals
-        ↓
-Build real projects
-        ↓
-Improve design and code quality
-        ↓
-Learn from every challenge
-        ↓
-Grow into a professional developer
-```
 
 ---
 
